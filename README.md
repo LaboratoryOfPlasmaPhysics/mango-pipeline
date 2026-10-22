@@ -10,3 +10,5 @@ The datasets it produces are the ones served by the MANGO server
 This package is standalone: it does not depend on `space-mango`.
 
 Status: design phase, no code yet.
+
+License: GPL-3.0-or-later (see `LICENSE`).
